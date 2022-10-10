@@ -59,7 +59,6 @@ The audience of this workshop will be researchers and students from a wide array
             <span class="caption"><a href="https://www.travellingscholar.com">Sabina Tomkins</a> <br>University of Michigan<br></span>
         </p>
     </div>
-    <div class="content list people">
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://www.cis.upenn.edu/~ungar/LyleUngar.jpg"/>
@@ -75,10 +74,17 @@ The audience of this workshop will be researchers and students from a wide array
 </div>
 
 # Key Dates
+- Submission Deadline: November 11, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
+- Notification of acceptance/rejection: November 28, 2021
+- Early Bird Registration: December 19, 2022 
+- Workshop Date: February 13/14, 2022
 
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 
-[aaai-23-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit23.zip
-[easychairlink]: https://easychair.org/cfp/ai4bc21
-[register]:https://aaai.org/Conferences/AAAI-23/registration/
+[aaai-22-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit22.zip
+[easychairlink]: https://easychair.org/cfp/ai4bc22
+[ladhania]: https://rahulladhania.com
+[ungar]: https://www.cis.upenn.edu/~ungar/
+[register]:https://aaai.org/Conferences/AAAI-21/registration/
+

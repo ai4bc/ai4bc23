@@ -38,7 +38,7 @@ The goal of this workshop is to bring together scholars from the causal inferenc
 
 # Format
 
-The full-day workshop will start with a keynote talk, followed by an invited talk and contributed paper presentations in the morning. The post-lunch session will feature a second keynote talk, two invited talks. Papers more suited for a poster, rather than a presentation, would be invited for a poster session. We will end the workshop with a panel discussion by top researchers in the field. 
+The full-day workshop will start with a keynote talk, followed by an invited talk and contributed paper presentations in the morning. The post-lunch session will feature a second keynote talk, two invited talks. Papers more suited for a poster, rather than a presentation, would be invited for a poster session. We will end the workshop with a panel discussion by researchers in the field. 
 
 # Submission Guidelines
 
@@ -61,14 +61,14 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
     <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://www.cis.upenn.edu/~ungar/LyleUngar.jpg"/>
-            <span class="caption"><a href="https://www.cis.upenn.edu/~ungar/">Lyle Ungar</a><br>University of Pennsylvania <br>  </span>
-        </p>
-    </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
             <img class="profile-thumbnail" src="https://static.wixstatic.com/media/36ef64_0a61606ebad345309f1278562637d613~mv2.jpg/v1/fill/w_514,h_506,al_c,lg_1,q_80/Talk_3_c.webp"/>
             <span class="caption"><a href="https://www.michaelsobolev.com">Michael Sobolev</a><br>Cornell Tech<br></span>
+        </p>
+    </div>
+        <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://www.cis.upenn.edu/~ungar/LyleUngar.jpg"/>
+            <span class="caption"><a href="https://www.cis.upenn.edu/~ungar/">Lyle Ungar</a><br>University of Pennsylvania <br>  </span>
         </p>
     </div>
 </div>
@@ -82,8 +82,8 @@ The audience of this workshop will be researchers and students from a wide array
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 
-[aaai-22-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit22.zip
-[easychairlink]: https://easychair.org/cfp/ai4bc22
+[aaai-23-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit23.zip
+[easychairlink]: https://easychair.org/cfp/ai4bc23
 [ladhania]: https://rahulladhania.com
 [ungar]: https://www.cis.upenn.edu/~ungar/
 [register]:https://aaai.org/Conferences/AAAI-21/registration/

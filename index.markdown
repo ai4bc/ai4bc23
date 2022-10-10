@@ -68,7 +68,7 @@ The audience of this workshop will be researchers and students from a wide array
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://static.wixstatic.com/media/36ef64_0a61606ebad345309f1278562637d613~mv2.jpg/v1/fill/w_514,h_506,al_c,lg_1,q_80/Talk_3_c.webp"/>
-            <span class="caption"><a href="https://www.michaelsobolev.com/">Michael Sobolev</a><br>Cornell Tech.<br></span>
+            <span class="caption"><a href="https://www.michaelsobolev.com/">Michael Sobolev</a><br>Cornell Tech<br></span>
         </p>
     </div>
 </div>

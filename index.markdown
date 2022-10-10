@@ -13,7 +13,6 @@ layout: page
 > - [Submission guidelines](#submission-guidelines)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
-> - [Schedule](/ai4bc21/schedule.html)
 
 # Introduction
 

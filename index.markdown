@@ -4,16 +4,15 @@
 title: AI for Behavior Change
 layout: page
 ---
-**The AAAI-21 Workshop on AI For Behavior Change held at the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)** <br><br>
-**February 8, 2021** <br>
+**The AAAI-23 Workshop on AI For Behavior Change held at the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)** <br><br>
+**February 13-14, 2021** <br>
 **A Virtual Conference** <br>
-**[Zoom Recordings](/ai4bc21/schedule.html)**
 
 > - [Topics](#topics)
 > - [Workshop format](#format)
 > - [Submission guidelines](#submission-guidelines)
-> - [Speakers](#invited-speakers)
-> - [Partners and Sponsors](#partners-and-sponsors)
+<!--> - [Speakers](#invited-speakers)-->
+<!--> - [Partners and Sponsors](#partners-and-sponsors)-->
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
 > - [Schedule](/ai4bc21/schedule.html)
@@ -51,6 +50,7 @@ The full-day workshop will start with a keynote talk, followed by an invited tal
 
 The audience of this workshop will be researchers and students from a wide array of disciplines including, but not limited to, statistics, computer science, economics, public policy, psychology, management, and decision science, who work at the intersection of causal inference, machine learning, and behavior science. We invite novel contributions following the [AAAI-21 formatting guidelines, camera-ready style][aaai-21-guidelines]. Work that is in submission or under review is also acceptable. Submissions will be peer reviewed, single-blinded. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity, relevance, and reproducibility. We accept two types of submissions - full research papers no longer than 8 pages and short/poster papers with 2-4 pages. References will not count towards the page limit. Submissions will be accepted via the [Easychair submission website][easychairlink].
 
+<!--
 # Invited Speakers
 
 <div class="content list people">
@@ -110,7 +110,7 @@ The audience of this workshop will be researchers and students from a wide array
         </p>
 </div>
 </div>
-
+-->
 # Organization
 #### Organizing Committee
 
@@ -148,25 +148,18 @@ The audience of this workshop will be researchers and students from a wide array
 </div>
 
 
-
-#### Program Committee (tentative)
-- [Jann Spiess][jann], Stanford University
-- [Paramveer Dhillon][paramveer], University of Michigan
-- [Zhenke Wu][zhenke], University of Michigan
-- [Anton Gollwitzer][anton], Yale University
-
 # Key Dates
-- (Updated) Submission Deadline: November 13, 2020 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
-- Notification of acceptance/rejection: December 8, 2020
-- Registration for Accepted Authors: December 18, 2020  [(Link here)][register]
-- Early Bird Registration for everyone else: January 15, 2021  [(Link here)][register]
-- Workshop Date: February 8, 2021
+-  Submission Deadline: November 14, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
+- Notification of acceptance/rejection: December 8, 2022
+- Registration for Accepted Authors: December 18, 2022  [(Link here)][register]
+<!--- Early Bird Registration for everyone else: January 15, 2021  [(Link here)][register]-->
+- Workshop Date: February 13/14, 2023
 
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 
-[aaai-21-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit21.zip
-[easychairlink]: https://easychair.org/cfp/ai4bc21
+[aaai-21-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit23.zip
+[easychairlink]: https://easychair.org/cfp/ai4bc23
 [ladhania]: https://rahulladhania.com
 [ungar]: https://www.cis.upenn.edu/~ungar/
 [sendhil]: https://sendhil.org

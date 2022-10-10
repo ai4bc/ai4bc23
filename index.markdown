@@ -13,6 +13,7 @@ layout: page
 > - [Submission guidelines](#submission-guidelines)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
+> - [Contact](#contact)
 
 # Introduction
 
@@ -72,10 +73,6 @@ The audience of this workshop will be researchers and students from a wide array
         </p>
     </div>
 </div>
-
-# Key Dates 
-
-- Submission Deadline: 
 
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com

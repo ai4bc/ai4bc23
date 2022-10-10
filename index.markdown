@@ -59,7 +59,7 @@ The audience of this workshop will be researchers and students from a wide array
             <span class="caption"><a href="https://www.travellingscholar.com">Sabina Tomkins</a> <br>University of Michigan<br></span>
         </p>
     </div>
-<div class="content list people">
+    <div class="content list people">
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://www.cis.upenn.edu/~ungar/LyleUngar.jpg"/>

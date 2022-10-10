@@ -75,9 +75,9 @@ The audience of this workshop will be researchers and students from a wide array
 
 # Key Dates
 - Submission Deadline: November 11, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
-- Notification of acceptance/rejection: November 28, 2021
+- Notification of acceptance/rejection: November 28, 2022
 - Early Bird Registration: December 19, 2022 
-- Workshop Date: February 13/14, 2022
+- Workshop Date: February 13/14, 2023
 
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com

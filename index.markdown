@@ -6,7 +6,7 @@ layout: page
 ---
 **The AAAI-23 Workshop on AI For Behavior Change held at the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)** <br><br>
 **February 13/14, 2023** <br>
-**A Virtual Conference** <br>
+**Washington DC** <br>
 
 > - [Topics](#topics)
 > - [Workshop format](#format)
@@ -106,7 +106,7 @@ The audience of this workshop will be researchers and students from a wide array
 -->
 # Organization
 #### Organizing Committee
-
+<div class="content list people">
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://chibe.upenn.edu/wp-content/uploads/2020/06/Rahul-Ladhania-2-768x793.jpg"/>
@@ -131,6 +131,7 @@ The audience of this workshop will be researchers and students from a wide array
             <img class="profile-thumbnail" src="https://static.wixstatic.com/media/36ef64_0a61606ebad345309f1278562637d613~mv2.jpg/v1/fill/w_514,h_506,al_c,lg_1,q_80/Talk_3_c.webp"/>
             <span class="caption"><a href="https://www.michaelsobolev.com/">Michael Sobolev</a><br>Cornell Tech<br></span>
         </p>
+    </div>
     </div>
 
 

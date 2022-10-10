@@ -49,7 +49,7 @@ The audience of this workshop will be researchers and students from a wide array
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://chibe.upenn.edu/wp-content/uploads/2020/06/Rahul-Ladhania-2-768x793.jpg"/>
-            <span class="caption"><a href="https://sph.umich.edu/faculty-profiles/ladhania-rahul.html">Rahul Ladhania (primary contact)</a> <br>University of Michigan<br></span>
+            <span class="caption"><a href="https://sph.umich.edu/faculty-profiles/ladhania-rahul.html">Rahul Ladhania</a> <br>University of Michigan<br></span>
         </p>
     </div>
     <div class="list-item-people">
@@ -74,7 +74,8 @@ The audience of this workshop will be researchers and students from a wide array
 </div>
 
 # Key Dates
--  Submission Deadline: November 14, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
+
+- Submission Deadline: November 14, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
 - Notification of acceptance/rejection: December 8, 2022
 - Registration for Accepted Authors: December 18, 2022  [(Link here)][register]
 - Workshop Date: February 13/14, 2023

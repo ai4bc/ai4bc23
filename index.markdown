@@ -139,13 +139,12 @@ The audience of this workshop will be researchers and students from a wide array
 -  Submission Deadline: November 14, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
 - Notification of acceptance/rejection: December 8, 2022
 - Registration for Accepted Authors: December 18, 2022  [(Link here)][register]
-<!--- Early Bird Registration for everyone else: January 15, 2021  [(Link here)][register]-->
 - Workshop Date: February 13/14, 2023
 
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 
-[aaai-21-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit23.zip
+[aaai-23-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit23.zip
 [easychairlink]: https://easychair.org/cfp/ai4bc23
 [ladhania]: https://rahulladhania.com
 [ungar]: https://www.cis.upenn.edu/~ungar/
@@ -159,4 +158,4 @@ For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 [paramveer]:http://pdhillon.com
 [zhenke]:https://sph.umich.edu/faculty-profiles/wu-zhenke.html
 [anton]:https://www.antongollwitzer.org
-[register]:https://aaai.org/Conferences/AAAI-21/registration/
+[register]:https://aaai.org/Conferences/AAAI-23/registration/

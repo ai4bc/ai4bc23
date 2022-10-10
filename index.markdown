@@ -71,7 +71,7 @@ The audience of this workshop will be researchers and students from a wide array
             <span class="caption"><a href="https://www.michaelsobolev.com/">Michael Sobolev</a><br>Cornell Tech<br></span>
         </p>
     </div>
-    </div>
+</div>
 
 # Key Dates
 -  Submission Deadline: November 14, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]

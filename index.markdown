@@ -74,9 +74,9 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
 </div>
 
-# Key Dates
+#Key Dates
 
-# **Contact**
+#**Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 
 [aaai-23-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit23.zip

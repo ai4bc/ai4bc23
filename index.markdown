@@ -74,6 +74,8 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
 </div>
 
+# Key Dates
+
 # **Contact**
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 

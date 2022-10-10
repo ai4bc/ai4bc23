@@ -75,9 +75,9 @@ The audience of this workshop will be researchers and students from a wide array
 
 # Key Dates
 
-- Submission Deadline: November 14, 2022 11.59 pm Anywhere on Earth
-- Notification of acceptance/rejection: December 8, 2022
-- Registration for Accepted Authors: December 18, 2022
+- Submission Deadline: November 11, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
+- Notification of acceptance/rejection: November 25, 2022
+- Early Registration Deadline: December 19, 2022
 - Workshop Date: February 13/14, 2023
 
 # **Contact**

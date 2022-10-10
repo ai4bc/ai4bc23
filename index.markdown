@@ -43,67 +43,6 @@ The full-day workshop will start with a keynote talk, followed by an invited tal
 
 The audience of this workshop will be researchers and students from a wide array of disciplines including, but not limited to, statistics, computer science, economics, public policy, psychology, management, and decision science, who work at the intersection of causal inference, machine learning, and behavior science. We invite novel contributions following the [AAAI-23 formatting guidelines, camera-ready style][aaai-23-guidelines]. Work that is in submission or under review is also acceptable. Submissions will be peer reviewed, single-blinded. Submissions will be assessed based on their novelty, technical quality, significance of impact, interest, clarity, relevance, and reproducibility. We accept two types of submissions - full research papers no longer than 8 pages and short/poster papers upto 3 pages. References will not count towards the page limit. Submissions will be accepted via the [Easychair submission website][easychairlink].
 
-<!--
-# Invited Speakers
-
-<div class="content list people">
-    <div class="list-item-people">
-        <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://athey.people.stanford.edu/sites/g/files/sbiybj5686/f/photo-faculty-athey-susan.jpg"/>
-            <span class="caption"><a href="https://athey.people.stanford.edu">Susan Athey</a> (keynote)<br>Economics of Technology <br>Stanford University</span>
-        </p>
-    </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://gsbcomphoto.chicagobooth.edu/smullain.jpg"/>
-            <span class="caption"><a href="https://sendhil.org">Sendhil Mullainathan</a> (keynote)<br>Computation and Behavioral Science<br>University of Chicago</span>
-        </p>
-    </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://stat.uw.edu/sites/default/files/styles/medium/public/2019-01/Tchetgen%20Tchetgen%2C%20Eric_0.jpg?itok=UQMEc__o"/>
-            <span class="caption"><a href="https://statistics.wharton.upenn.edu/profile/ett/">Eric Tchetgen Tchetgen</a><br>Statistics<br>University of Pennsylvania</span>
-        </p>
-    </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://infosci.cornell.edu/sites/default/files/JonK1.jpg"/>
-            <span class="caption"><a href="http://www.cs.cornell.edu/home/kleinber/">Jon Kleinberg</a><br>Computer Science<br>Cornell University</span>
-        </p>
-    </div>
-    <div class="list-item-people">
-        <p class="list-post-title">
-            <img class="profile-thumbnail" src="http://www.munmund.net/imgs/munmun-pic2.jpg"/>
-            <span class="caption"><a href="http://www.munmund.net">Munmun De Choudhury</a><br>Interactive Computing<br>Georgia Tech</span>
-        </p>
-      </div>
-</div>
-
-# Partners and Sponsors
-<div class="content list people">
-
-<div class="list-item-people">
-        <p class="list-post-title">
-            <img  width="300" src="https://github.com/ai4bc/ai4bc21/blob/master/assets/bcfg.png?raw=true"/>
-            <span class="caption"><a href="https://bcfg.wharton.upenn.edu">Behavior Change For Good</a> <br>University of Pennsylvania<br></span>
-        </p>
-    </div>
-
-<div class="list-item-people">
-    <p class="list-post-title">
-        <img  width="200" src="https://raw.githubusercontent.com/ai4bc/ai4bc21/master/assets/appliedai.png"/>
-        <span class="caption"><a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">Center for Applied Artificial Intelligence</a><br>Chicago Booth<br></span>
-    </p>
-</div>
-
-<div class="list-item-people">
-    <p class="list-post-title">
-        <img width="300" src="https://github.com/ai4bc/ai4bc21/blob/master/assets/pyschoftech.jpg?raw=true">
-        <span class="caption"><a href="https://www.psychoftech.org">Psychology Of Technology Institute</a></span>
-        </p>
-</div>
-</div>
--->
 # Organization
 
 <div class="content list people">

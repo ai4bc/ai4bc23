@@ -134,7 +134,6 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
     </div>
 
-
 # Key Dates
 -  Submission Deadline: November 14, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
 - Notification of acceptance/rejection: December 8, 2022
@@ -145,7 +144,7 @@ The audience of this workshop will be researchers and students from a wide array
 For any questions, please reach out to us at ai4behaviorchange at gmail dot com
 
 [aaai-23-guidelines]: https://www.aaai.org/Publications/Templates/AuthorKit23.zip
-[easychairlink]: https://easychair.org/cfp/ai4bc23
+[easychairlink]: https://easychair.org/cfp/ai4bc21
 [ladhania]: https://rahulladhania.com
 [ungar]: https://www.cis.upenn.edu/~ungar/
 [sendhil]: https://sendhil.org

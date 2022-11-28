@@ -5,7 +5,7 @@ title: AI for Behavior Change
 layout: page
 ---
 **The AAAI-23 Workshop on AI For Behavior Change held at the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)** <br><br>
-**February 13/14, 2023** <br>
+**February 13, 2023** <br>
 **Washington DC** <br>
 
 > - [Topics](#topics)

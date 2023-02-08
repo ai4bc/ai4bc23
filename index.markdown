@@ -11,8 +11,12 @@ layout: page
 > - [Topics](#topics)
 > - [Workshop format](#format)
 > - [Submission guidelines](#submission-guidelines)
+> - [Speakers](#invited-speakers)
+> - [Panelists](#panelists)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
+> - [Schedule](/ai4bc22/schedule.html)
+> - [Posters](/ai4bc22/posters.html)
 > - [Contact](#contact)
 
 # Introduction
@@ -72,6 +76,79 @@ The audience of this workshop will be researchers and students from a wide array
         </p>
     </div>
 </div>
+
+# Invited Speakers
+
+<div class="content list people">
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://static.projects.iq.harvard.edu/files/styles/os_files_medium/public/teamcore/files/img_people_tambe_page.jpg?m=1628815462&itok=yxIX2DSl"/>
+            <span class="caption"><a href="https://seas.harvard.edu/person/milind-tambe">Milind Tambe</a> (keynote)<br>AI for Social Good<br>Harvard University</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://lh6.googleusercontent.com/6-7PnCJo5rFXpUjFsJhPXiCwH8ZwckuSHR5sGSpPxpRaMjH-tJ8Ul_vKwLeazU6qHodE-g4rXsPQXQoaUb8gUxC2rF5IcR1F04O9PgFVIb-A15mQ=w1280"/>
+            <span class="caption"><a href="https://vivo.brown.edu/display/mlittman">Michael Littman</a> <br>ML and Decision Making under Uncertainty<br>Brown University</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://ivi.fnwi.uva.nl/ellis/wp-content/uploads/2022/12/fern-200x200.jpeg"/>
+            <span class="caption"><a href="https://www.uva.nl/en/profile/p/a/f.p.santos/f.p.pascoal-dos-santos.html">Fernando Pascoal Dos Santos</a><br>AI and Complex Systems<br>University of Amsterdam</span>
+        </p>
+    </div>
+        <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://www.vanderschaar-lab.com/wp-content/uploads/2020/06/Mihaela_photo_sq.jpg"/>
+            <span class="caption"><a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Mihaela van der Schaar</a><br>Machine Learning and AI for Medicine<br>University of Cambridge</span>
+        </p>
+    </div>
+        <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://eecsnews.engin.umich.edu/wp-content/uploads/sites/2/2018/04/rada-mihalcea-featured.jpg"/>
+            <span class="caption"><a href="https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a><br>NLP for Social Good<br>University of Michigan</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://ischool.umd.edu/wp-content/uploads/Cody_Buntain.png"/>
+            <span class="caption"><a href="https://ischool.umd.edu/directory/cody-buntain/">Cody Buntain</a><br>Social Media and Online Engagement<br>University of Maryland</span>
+        </p>
+    </div>
+</div>
+
+
+# Panelists
+
+<div class="content list people">
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://isim.georgetown.edu/wp-content/uploads/sites/17/2019/07/lisa_singh.jpg"/>
+            <span class="caption"><a href="https://people.cs.georgetown.edu/~singh/">Lisa Singh</a><br>Data-centric Computing<br>Georgetown University</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="http://www.cs.cmu.edu/~focal/vincent_conitzer.jpg"/>
+            <span class="caption"><a href="http://www.cs.cmu.edu/~conitzer/">Vincent Conitzer</a><br>Cooperative AI<br>Carnegie Mellon University</span>
+        </p>
+    </div>
+    <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src="https://people.csail.mit.edu/dhm/main.png"/>
+            <span class="caption"><a href="https://people.csail.mit.edu/dhm/">Dylan Hadfield-Menell</a><br>AI and Decision-Making<br>Massachusetts Institute of Technology</span>
+        </p>
+    </div>
+        <div class="list-item-people">
+        <p class="list-post-title">
+            <img class="profile-thumbnail" src=""/>
+            <span class="caption"><a href="https://www.linkedin.com/in/bennett-butler-36798469/">Bennett Butler</a><br>Policy Adviser<br>Senator Edward Markey</span>
+        </p>
+    </div>
+</div>
+
+
 
 # Key Dates
 - Submission Deadline: November 18, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]

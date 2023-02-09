@@ -41,11 +41,11 @@ layout: page
             <td>
                 Contributed Talks
                 <ul>
-                    <li> <b><a href = "https://www.poruzkhambatta.com/">Eura Shin</a></b>, Modeling Mobile Health Users as Reinforcement Learning Agents </li>
-                    <li> <b><a href = "https://shuzeliu.com/">Harsh Kumar</a></b>, Using Adaptive Bandit Experiments to Increase and Investigate Engagement in Digital Mental Health </li>
-                    <li> <b><a href = "https://reglab.stanford.edu/team-members/nathanael-jo/">Atanu Sinha</a></b>, Personalized Detection of Cognitive Biases in Actions of Users from Their Logs: Anchoring and Recency Biases </li
-                    <li> <b><a href = "https://reglab.stanford.edu/team-members/nathanael-jo/">Adi Berliner</a></b>, Personalization of digital appointment reminders reduces hospital no-show rates </li> 
-                </ul>
+                    <li> <b><a href = "https://eurashin.github.io/">Eura Shin</a></b>, Modeling Mobile Health Users as Reinforcement Learning Agents </li>
+                    <li> <b><a href = "https://harsh-kumar.com/">Harsh Kumar</a></b>, Using Adaptive Bandit Experiments to Increase and Investigate Engagement in Digital Mental Health </li>
+                    <li> <b><a href = "https://research.adobe.com/person/atanu-sinha/">Atanu Sinha</a></b>, Personalized Detection of Cognitive Biases in Actions of Users from Their Logs: Anchoring and Recency Biases </li
+                    <li> <b><a href = "https://www.apollo.io/people/Adi/Berliner/54a61a7574686938ac0363c2">Adi Berliner</a></b>, Personalization of digital appointment reminders reduces hospital no-show rates </li> 
+            </ul>
             </td>
         </tr>
         <tr>

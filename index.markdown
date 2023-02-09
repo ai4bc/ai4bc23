@@ -15,7 +15,7 @@ layout: page
 > - [Panelists](#panelists)
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
-> - [Schedule](/ai4bc22/schedule.html)
+> - [Schedule](/ai4bc23/schedule.html)
 > - [Posters](/ai4bc22/posters.html)
 > - [Contact](#contact)
 

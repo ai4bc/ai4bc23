@@ -77,14 +77,12 @@ layout: page
             <td> 03:00pm - 03:30pm </td>
             <td>
                 Virtual Invited Talk: <b><a href = "https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/"> Mihaela van der Schaar</a></b> <br>
-                
             </td>
         </tr>
         <tr>
             <td> 03:30pm - 04:00pm </td>
             <td>
-                Virtual Invited Talk: <b><a href = "https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a></b> <br>
-                
+                Virtual Invited Talk: <b><a href = "https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a></b> <br>                
             </td>
         </tr>
         <tr>
@@ -92,7 +90,6 @@ layout: page
             <td>
                 Invited Talk: <b><a href = "https://ischool.umd.edu/directory/cody-buntain/">Cody Buntain</a></b> <br>
                 (Un)Intended Mobilizing Effects of QAnon and Deplatforming in Social Media
-
             </td>
         </tr>
         <tr>

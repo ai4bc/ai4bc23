@@ -94,7 +94,7 @@ The audience of this workshop will be researchers and students from a wide array
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://ivi.fnwi.uva.nl/ellis/wp-content/uploads/2022/12/fern-200x200.jpeg"/>
-            <span class="caption"><a href="https://www.uva.nl/en/profile/p/a/f.p.santos/f.p.pascoal-dos-santos.html">Fernando Pascoal Dos Santos</a><br>AI and Complex Systems<br>University of Amsterdam</span>
+            <span class="caption"><a href="https://fp-santos.github.io/">Fernando P. Santos</a><br>AI and Complex Systems<br>University of Amsterdam</span>
         </p>
     </div>
         <div class="list-item-people">

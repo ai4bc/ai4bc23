@@ -57,7 +57,7 @@ layout: page
         <tr>
             <td> 01:30 pm - 02:00 pm </td>
             <td>
-                Invited Talk: <b><a href = "https://www.uva.nl/en/profile/p/a/f.p.santos/f.p.pascoal-dos-santos.html">Fernando Pascoal Dos Santos</a></b> <br>
+                Invited Talk: <b><a href = "https://fp-santos.github.io/">Fernando P. Santos</a></b> <br>
                 Reputation Systems and Dynamics of Human Cooperation
             </td>
         </tr>

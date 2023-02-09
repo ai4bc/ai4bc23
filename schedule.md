@@ -45,7 +45,7 @@ layout: page
                     <li> <b><a href = "https://harsh-kumar.com/">Harsh Kumar</a></b>, Using Adaptive Bandit Experiments to Increase and Investigate Engagement in Digital Mental Health </li>
                     <li> <b><a href = "https://research.adobe.com/person/atanu-sinha/">Atanu Sinha</a></b>, Personalized Detection of Cognitive Biases in Actions of Users from Their Logs: Anchoring and Recency Biases </li
                     <li> <b><a href = "https://www.apollo.io/people/Adi/Berliner/54a61a7574686938ac0363c2">Adi Berliner</a></b>, Personalization of digital appointment reminders reduces hospital no-show rates </li> 
-            </ul>
+                </ul>
             </td>
         </tr>
         <tr>
@@ -56,7 +56,7 @@ layout: page
         </tr>
         <tr>
             <td> 01:30 pm - 02:00 pm </td>
-                        <td>
+            <td>
                 Invited Talk: <b><a href = "https://www.uva.nl/en/profile/p/a/f.p.santos/f.p.pascoal-dos-santos.html">Fernando Pascoal Dos Santos</a></b> <br>
                 Reputation Systems and Dynamics of Human Cooperation
             </td>
@@ -67,7 +67,7 @@ layout: page
                 <b>Moderated Panel by Sabina Tomkins with <a href = "https://people.cs.georgetown.edu/~singh/">Lisa Singh</a>, <a href = "http://www.cs.cmu.edu/~conitzer/">Vince Conitzer</a>, Bennett Butler, and <a href = "https://people.csail.mit.edu/dhm/">Dylan Hadfield-Menell</a></b> <br>               
             </td>
         </tr>
-                <tr>
+        <tr>
             <td> 02:50 pm - 03:00 pm </td>
             <td>
                 Break

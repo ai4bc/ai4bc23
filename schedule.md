@@ -64,7 +64,7 @@ layout: page
         <tr>
             <td> 02:00pm - 02:50pm </td>
             <td>
-                <b>Moderated Panel by Sabina Tomkins with <a href = "https://people.cs.georgetown.edu/~singh/">Lisa Singh</a>, <a href = "http://www.cs.cmu.edu/~conitzer/">Vince Conitzer</a>, Bennett Butler, and <a href = "https://people.csail.mit.edu/dhm/">Dylan Hadfield-Menell</a></b> <br>               
+                <b>Moderated Panel</b> by Sabina Tomkins with <b><a href = "https://people.cs.georgetown.edu/~singh/">Lisa Singh</a>, <a href = "http://www.cs.cmu.edu/~conitzer/">Vince Conitzer</a>, <a>Bennett Butler</a>, and <a href = "https://people.csail.mit.edu/dhm/">Dylan Hadfield-Menell</a></b> <br>               
             </td>
         </tr>
         <tr>

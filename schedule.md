@@ -37,7 +37,7 @@ layout: page
             </td>
         </tr>
         <tr>
-            <td> 10:40 pm - 12:00 pm </td>
+            <td> 10:40 am - 12:00 pm </td>
             <td>
                 Contributed Talks
                 <ul>

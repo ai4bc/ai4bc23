@@ -87,7 +87,7 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
     <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://lh4.googleusercontent.com/wVoinXHm8MWIu7dkOYkNlLKvKKdICBZqrZV7pyEbwQ9eoW_r1Fhzpvw12o9cUINA0iBsRVGgncDk60H4oH8snKANI-saU6P5NXr8LFId60QhXJkY=w1280"/>
+            <img class="profile-thumbnail" src="https://vivo.brown.edu/profile-images/133/30/mlittman.jpg"/>
             <span class="caption"><a href="https://vivo.brown.edu/display/mlittman">Michael Littman</a> <br>ML and Decision Making under Uncertainty<br>Brown University</span>
         </p>
     </div>

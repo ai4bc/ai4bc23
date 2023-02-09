@@ -103,4 +103,3 @@ layout: page
         </tr>
     </tbody>
 </table>
-

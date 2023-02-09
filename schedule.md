@@ -5,7 +5,7 @@ title: Schedule
 layout: page
 ---
 
-# Monday, 13 February 2023 (All times in EST)
+# Monday, 13 February 2023 (All times Eastern)
 <table>
     <colgroup>
         <col width="25%" />

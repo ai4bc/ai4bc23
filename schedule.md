@@ -22,7 +22,7 @@ layout: page
             <td> 9:10 am - 10:00 am </td>
             <td>
                 Keynote Talk: <b><a href = "https://seas.harvard.edu/person/milind-tambe">Milind Tambe</a></b> <br>
-                AI for social impact: Results from deployed applications for public health
+                AI for Social Impact: Results from Deployed Applications for Public Health
             </td>
         </tr>
         <tr>
@@ -46,7 +46,7 @@ layout: page
                     <li> <b><a href = "https://eurashin.github.io/">Eura Shin</a></b>, Modeling Mobile Health Users as Reinforcement Learning Agents </li>
                     <li> <b><a href = "https://harsh-kumar.com/">Harsh Kumar</a></b>, Using Adaptive Bandit Experiments to Increase and Investigate Engagement in Digital Mental Health </li>
                     <li> <b><a href = "https://navitagoyal.github.io">Navita Goyal</a></b>, Personalized Detection of Cognitive Biases in Actions of Users from Their Logs: Anchoring and Recency Biases </li>
-                    <li> <b><a href = "https://www.apollo.io/people/Adi/Berliner/54a61a7574686938ac0363c2">Adi Berliner</a></b>, Personalization of digital appointment reminders reduces hospital no-show rates </li> 
+                    <li> <b><a href = "https://www.apollo.io/people/Adi/Berliner/54a61a7574686938ac0363c2">Adi Berliner</a></b>, Personalization of Digital Appointment Reminders Reduces Hospital No-show Rates </li> 
                 </ul>
             </td>
         </tr>
@@ -66,7 +66,8 @@ layout: page
         <tr>
             <td> 02:00pm - 02:50pm </td>
             <td>
-                Moderated Panel by <b>Sabina Tomkins</b> with <b><a href = "https://people.cs.georgetown.edu/~singh/">Lisa Singh</a>, <a href = "http://www.cs.cmu.edu/~conitzer/">Vince Conitzer</a>, <a>Bennett Butler</a>, and <a href = "https://people.csail.mit.edu/dhm/">Dylan Hadfield-Menell</a></b> <br>               
+                Moderated Panel by <b>Sabina Tomkins</b> with <b><a href = "https://people.cs.georgetown.edu/~singh/">Lisa Singh</a>, <a href = "http://www.cs.cmu.edu/~conitzer/">Vince Conitzer</a>, <a>Bennett Butler</a>, and <a href = "https://people.csail.mit.edu/dhm/">Dylan Hadfield-Menell</a></b> <br>   
+                Reinforcing Preferences vs Behavior Change            
             </td>
         </tr>
         <tr>

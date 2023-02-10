@@ -6,7 +6,8 @@ layout: page
 ---
 
 # Monday, 13 February 2023 (All times Eastern)
-# Room 140A, Walter E. Washington Convention Center, Washington DC, USA
+# Room 140A, Walter E. Washington Convention Center
+# Washington DC, USA
 <table>
     <colgroup>
         <col width="25%" />

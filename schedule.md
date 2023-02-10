@@ -97,7 +97,7 @@ layout: page
         <tr>
             <td> 04:30pm - 06:00pm </td>
             <td>
-                Poster Session and Networking               
+                <a href="https://ai4bc.github.io/ai4bc23/posters.html">Poster session</a> and Networking               
             </td>
         </tr>
     </tbody>

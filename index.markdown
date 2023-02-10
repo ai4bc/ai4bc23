@@ -16,6 +16,7 @@ layout: page
 > - [Organization](#organization)
 > - [Key Dates](#key-dates)
 > - [Schedule](/ai4bc23/schedule.html)
+> - [Poster Session](/ai4bc23/posters.html)
 > - [Contact](#contact)
 
 # Introduction

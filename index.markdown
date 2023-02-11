@@ -142,12 +142,11 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
         <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src=""/>
+            <img class="profile-thumbnail" src="https://github.com/ai4bc/ai4bc23/blob/master/assets/bennett.jpeg?raw=true"/>
             <span class="caption"><a href="https://www.linkedin.com/in/bennett-butler-36798469/">Bennett Butler</a><br>Policy Adviser<br>Senator Edward Markey</span>
         </p>
     </div>
 </div>
-
 
 
 # Key Dates

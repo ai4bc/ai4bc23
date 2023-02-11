@@ -64,7 +64,7 @@ layout: page
             </td>
         </tr>
         <tr>
-            <td> 02:00pm - 02:50pm </td>
+            <td> 02:00pm - 03:00pm </td>
             <td>
                 Moderated Panel by <b>Sabina Tomkins</b> with <b><a href = "https://people.cs.georgetown.edu/~singh/">Lisa Singh</a>, <a href = "http://www.cs.cmu.edu/~conitzer/">Vince Conitzer</a>, <a>Bennett Butler</a>, and <a href = "https://people.csail.mit.edu/dhm/">Dylan Hadfield-Menell</a></b> <br>   
                 Reinforcing Preferences vs Behavior Change            

@@ -133,7 +133,7 @@ The audience of this workshop will be researchers and students from a wide array
             <span class="caption"><a href="https://people.csail.mit.edu/dhm/">Dylan Hadfield-Menell</a><br>AI and Decision-Making<br>Massachusetts Institute of Technology</span>
         </p>
     </div>
-        <div class="list-item-people">
+    <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://github.com/ai4bc/ai4bc23/blob/master/assets/bennett.jpeg?raw=true"/>
             <span class="caption"><a href="https://www.linkedin.com/in/bennett-butler-36798469/">Bennett Butler</a><br>Policy Advisor to Senator Edward Markey<br>United States Senate</span>
@@ -141,8 +141,7 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
 </div>
 
-
-# Key Dates
+# **Key Dates**
 - Submission Deadline: November 18, 2022 11.59 pm Anywhere on Earth [(via Easychair)][easychairlink]
 - Notification of acceptance/rejection: December 19, 2022
 - Early Bird Registration: December 19, 2022 

@@ -71,12 +71,6 @@ layout: page
             </td>
         </tr>
         <tr>
-            <td> 02:50 pm - 03:00 pm </td>
-            <td>
-                Break
-            </td>
-        </tr>
-        <tr>
             <td> 03:00pm - 03:30pm </td>
             <td>
                 Virtual Invited Talk: <b><a href = "https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a></b> <br>

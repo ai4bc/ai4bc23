@@ -100,10 +100,9 @@ The audience of this workshop will be researchers and students from a wide array
     </div>
         <div class="list-item-people">
         <p class="list-post-title">
-            <img class="profile-thumbnail" src="https://www.vanderschaar-lab.com/wp-content/uploads/2020/06/Mihaela_photo_sq.jpg"/>
-            <span class="caption"><a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">Mihaela van der Schaar</a><br>Machine Learning and AI for Medicine<br>University of Cambridge</span>
+            <img class="profile-thumbnail" src="https://eecsnews.engin.umich.edu/wp-content/uploads/sites/2/2018/04/rada-mihalcea-featured.jpg"/>
+            <span class="caption"><a href="https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a><br>NLP for Social Good<br>University of Michigan</span>
         </p>
-    </div>
     <div class="list-item-people">
         <p class="list-post-title">
             <img class="profile-thumbnail" src="https://ischool.umd.edu/wp-content/uploads/Cody_Buntain.png"/>

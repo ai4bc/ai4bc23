@@ -73,7 +73,7 @@ layout: page
         <tr>
             <td> 03:00pm - 03:30pm </td>
             <td>
-                Virtual Invited Talk: <b><a href = "https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a></b> <br>
+                Virtual Invited Talk: <b><a href = "https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a></b> <br>Helping Counselors Help Us: AI for Counselor Behavior Change
             </td>
         </tr>
         <tr>

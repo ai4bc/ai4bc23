@@ -43,7 +43,7 @@ layout: page
             <td>
                 Contributed Talks
                 <ul>
-                    <li> <b><a href = "https://eurashin.github.io/">Eura Shin</a></b>, Modeling Mobile Health Users as Reinforcement Learning Agents </li>
+                    <li> <b><a href = "https://eurashin.github.io/">Eura Shin</a></b>, <a href = "https://arxiv.org/abs/2212.00863"Modeling Mobile Health Users as Reinforcement Learning Agents </a> </li>
                     <li> <b><a href = "https://harsh-kumar.com/">Harsh Kumar</a></b>, Using Adaptive Bandit Experiments to Increase and Investigate Engagement in Digital Mental Health </li>
                     <li> <b><a href = "https://navitagoyal.github.io">Navita Goyal</a></b>, Personalized Detection of Cognitive Biases in Actions of Users from Their Logs: Anchoring and Recency Biases </li>
                     <li> <b><a href = "https://www.apollo.io/people/Adi/Berliner/54a61a7574686938ac0363c2">Adi Berliner</a></b>, Personalization of Digital Appointment Reminders Reduces Hospital No-show Rates </li> 
